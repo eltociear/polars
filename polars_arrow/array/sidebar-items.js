@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["default_arrays","fixed_size_list","list","null","slice","utf8"],"trait":["ArrowGetItem","ListFromIter","PolarsArray","ValueSize"]};

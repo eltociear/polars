@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"polars_core":[["impl&lt;'a&gt; IntoParallelIterator for &amp;'a <a class=\"struct\" href=\"polars_core/frame/groupby/struct.GroupsIdx.html\" title=\"struct polars_core::frame::groupby::GroupsIdx\">GroupsIdx</a>"],["impl IntoParallelIterator for <a class=\"struct\" href=\"polars_core/frame/groupby/struct.GroupsIdx.html\" title=\"struct polars_core::frame::groupby::GroupsIdx\">GroupsIdx</a>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

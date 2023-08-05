@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["sum_as_f64"],"trait":["SimdCastPl"]};

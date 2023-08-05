@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"polars_arrow":[["impl&lt;I, J&gt; TrustedLen for <a class=\"struct\" href=\"polars_arrow/utils/struct.TrustMyLength.html\" title=\"struct polars_arrow::utils::TrustMyLength\">TrustMyLength</a>&lt;I, J&gt;<span class=\"where fmt-newline\">where\n    I: <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/iter/traits/iterator/trait.Iterator.html\" title=\"trait core::iter::traits::iterator::Iterator\">Iterator</a>&lt;Item = J&gt;,</span>"]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
